@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "768014411962",
+    "project_id": "kongsikeretaapp",
+    "storage_bucket": "kongsikeretaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768014411962:android:8df0523abdeb8c8b683a83",
+        "android_client_info": {
+          "package_name": "com.example.kongsikereta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Hscj37lBWMzKOkWvo65pw4vL-u9nkaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768014411962:android:2a257e5075b3abc6683a83",
+        "android_client_info": {
+          "package_name": "com.example.kongsikeretariders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Hscj37lBWMzKOkWvo65pw4vL-u9nkaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
